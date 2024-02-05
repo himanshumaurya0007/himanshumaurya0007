@@ -4,6 +4,8 @@
 - 💞️ I’m looking forward to collaborate on coding, open source development projects...
 - 📫 You can connect to me via social media such as Instagram (mauryahimanshu_ or himanshumaurya0007) or you can Mail me (himanshu.m1802@gmail.com) ...
 
+<!-- 
+
 <h1 align="center">Hi 😀, I'm Arya Patil</h1>
 <h3 align="center">Passionate to build tech stuff. I'm so giddy about learning AIML and Data Science that even my coffee gets jealous of the attention I'm giving to algorithms and data sets! </h3>
 
@@ -39,3 +41,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shutterstack&show_icons=true&locale=en" alt="shutterstack" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shutterstack&" alt="shutterstack" /></p>
+
+-->
