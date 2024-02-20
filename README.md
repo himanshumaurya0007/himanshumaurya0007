@@ -7,7 +7,7 @@
 
 <h1 align="cemter">Hello, I'm Himanshu Maurya!</h1>
 
-<h2 style="color:yellow; align:left; border:none; font-size:25px"><b><i>Attended more than 3+ Hackathon's!!</i></b></h2>
+<h2 style="color:yellow; align:left; border:none; font-size:25px"><b><i>Attended more than 3 Hackathon's!!</i></b></h2>
 
 <h2 align="left">Technlogy Stack:</h2>
 <p>
