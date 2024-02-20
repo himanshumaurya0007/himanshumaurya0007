@@ -7,6 +7,7 @@
 
 <h1 align="cemter">Hello, I'm Himanshu Maurya!</h1>
 
+<h2 style="color:yellow; align:left; border:none; font-size:25px"><b><i>Attended more than 3+ Hackathon's!!</i></b></h2>
 
 <h2 align="left">Technlogy Stack:</h2>
 <p>
@@ -21,10 +22,13 @@
     <a href=""> <img src="./github_profile_readme_resources/python.png" alt="python" width="50px"> </a>
     <a href=""> <img src="./github_profile_readme_resources/mysql.png" alt="mysql" width="50px"> </a>
     <a href=""> <img src="./github_profile_readme_resources/xampp.png" alt="xampp" width="50px"> </a>
-
+<!-- Add Git, GitHub, Ubuntu, Sqlite -->
 </p>
 
 <!-- <h2 align="left">Connect with me:</h2> -->
+<!-- Instagram, LInkedIn, Kaggle, Coding Platforms (Hackerrank, CodeChef, CodeForces, etc) -->
+
+
 <!-- 
 
 <h1 align="center">Hi 😀, I'm Arya Patil</h1>
