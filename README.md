@@ -8,15 +8,15 @@
 <h1 align="cemter">Hello, I'm Himanshu Maurya!</h1>
 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Technlogy Stack:</h2>
 <p>
     <a href=""> <img src="./github_profile_readme_resources/html-5.png" alt="html5" width="50px"> </a>
     <a href=""> <img src="./github_profile_readme_resources/css-3.png" alt="css3" width="50px"> </a>
     <a href=""> <img src="./github_profile_readme_resources/bootstrap.png" alt="bootstrap" width="40px"> </a>
     <a href=""> <img src="./github_profile_readme_resources/django.png" alt="django" width="90px"> </a>
-    <a href=""> <img src="./github_profile_readme_resources/flask.png" alt="flask" width="50px"> </a>
+    <a href=""> <img src="./github_profile_readme_resources/flask.png" alt="flask" width="70px" align="top"> </a>
     <a href=""> <img src="./github_profile_readme_resources/c.png" alt="c" width="50px"> </a>
-    <a href=""> <img src="./github_profile_readme_resources/cpp.png" alt="c++" width="45px"> </a>
+    <a href=""> <img src="./github_profile_readme_resources/cpp.png" alt="cpp" width="45px"> </a>
     <a href=""> <img src="./github_profile_readme_resources/java_1.png" alt="java" width="50px"> </a>
     <a href=""> <img src="./github_profile_readme_resources/python.png" alt="python" width="50px"> </a>
     <a href=""> <img src="./github_profile_readme_resources/mysql.png" alt="mysql" width="50px"> </a>
@@ -24,6 +24,7 @@
 
 </p>
 
+<!-- <h2 align="left">Connect with me:</h2> -->
 <!-- 
 
 <h1 align="center">Hi 😀, I'm Arya Patil</h1>
