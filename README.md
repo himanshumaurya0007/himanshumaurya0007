@@ -1,4 +1,4 @@
-<!-- - 👋 Hi, I’m @himanshumaurya0007
+<!-- - 👋 Hello, I'm @himanshumaurya0007
 - 👀 I’m have a keen interest in coding, open source development, etc and many more...
 - 🌱 At present, i'm learning Java(Programming Language) & MySQL database, familiar with other Programming Languages as well like C, C++, Python...
 - 💞️ I’m looking forward to collaborate on coding, open source development projects...
@@ -7,7 +7,9 @@
 
 <h1 align="cemter">Hello, I'm Himanshu Maurya!</h1>
 
-<h2 style="color:yellow; align:left; border:none; font-size:25px"><b><i>Attended more than 3 Hackathon's!!</i></b></h2>
+<h2 style="color:yellow; align:left; border:none; font-size:25px"><b><i>🏆 Winner of HackWave Hackathon at APSIT 🏆</i></b></h2>
+
+<h2 style="color:yellow; align:left; border:none; font-size:25px"><b><i>Attended more than 7 Hackathons!!</i></b></h2>
 
 <h2 align="left">Technlogy Stack:</h2>
 <p>
