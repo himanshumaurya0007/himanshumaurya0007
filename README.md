@@ -9,7 +9,7 @@
 
 <h2 style="color:yellow; align:left; border:none; font-size:25px"><b><i>🏆 Winner of HackWave Hackathon at APSIT 🏆</i></b></h2>
 
-<h2 style="color:yellow; align:left; border:none; font-size:25px"><b><i>Attended more than 7 Hackathons!!</i></b></h2>
+<h2 style="color:yellow; align:left; border:none; font-size:25px"><b><i>Participated in 10+ Hackathons!!!!!!!</i></b></h2>
 
 <h2 align="left">Technlogy Stack:</h2>
 <p>
