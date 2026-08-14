@@ -1,9 +1,10 @@
 <h1 align="center">
-  Hello 😉, I'm <span style="color:#ff9a00"><strong>Himanshu Maurya</strong></span>!
+  Hi, I'm <span style="color:#ff9a00"><strong>Himanshu Maurya</strong></span>!
 </h1>
 
 <p align="center">
-  <strong>Full-Stack Web Developer (MERN)</strong> <br/>
+  <strong>Full Stack Developer | PGCP-AC, IET CDAC Pune</strong><br/>
+  ASP.NET Core • React • Java • C# • SQL<br/>
   🏆 HackWave 2024 Winner — Sustainability & Environment Domain
 </p>
 
@@ -11,51 +12,45 @@
 
 ## 👋 About Me
 
-I am a passionate **Full-Stack Web Developer** and a graduate in <strong>Computer Science & Engineering (Data Science)</strong> from <i>A. P. Shah Institute of Technology</i>, affiliated with the **University of Mumbai**.
+I am a **Full Stack Developer** and **PGCP-AC professional from IET CDAC Pune**, with a background in Computer Science & Engineering (Data Science).
 
-I enjoy building **smart, scalable, and user-centric applications**.  
+Through PGCP-AC, I developed a strong foundation in **C++, Java, Data Structures & Algorithms, Database Technologies, Web Programming, Software Development Methodologies, and Microsoft .NET Technologies**.
 
-My project experience includes:
+I enjoy designing and developing **scalable, maintainable, and user-centric applications** across the frontend and backend.
 
-- **EasyVenue** – A full-stack venue booking and management platform designed for venue owners and users, featuring scalable architecture and well-structured RESTful APIs.
+### 🚀 Featured Project
 
-- **Blog Website** – A full-stack blogging platform with blog creation, category filtering, tagging, and an interactive UI, built with a clean and modular architecture.
+**AlgoArena – Coding Practice & Interview Preparation Platform**
 
-- **User Management App** – A full-stack administrative application enabling complete CRUD operations on user data with seamless frontend–backend routing.
+A full-stack coding practice and interview preparation platform developed as my **CDAC Software Project** using:
 
-- **TaskTide (ToDo App)** – A full-stack task management application demonstrating CRUD operations, RESTful API design, and a clean, responsive UI.
+* **Frontend:** React, Vite
+* **Backend:** ASP.NET Core Web API
+* **ORM:** Entity Framework Core
+* **Database:** Microsoft SQL Server
+* **Authentication:** JWT-based authentication & role-based authorization
+* **Code Execution:** JDoodle API
+<!-- * **AI:** Generative AI-assisted hint generation -->
 
-💡 **Key Interests**
-- Full-Stack Web Development  
-- Open-Source Contributions  
-
-📌 *Always excited to collaborate and build impactful products.*
-
----
-
-<!-- 🌐 Portfolio Website -->
-<!-- https://himanshumaurya-0007.web.app -->
-
-## 🏆 Achievements
-
-- 🥇 **Winner** — *HackWave Hackathon 2024*, APSIT  
-- 👨‍💻 Participated in **10+ National Hackathons** across diverse domains  
+The platform allows users to learn programming concepts, solve coding problems in **C, C++, and Java**, track submissions and performance, and access learning resources such as topics, articles, and videos.
 
 ---
 
-## 🧑‍💻 Tech Stack
+## 💻 Technical Skills
 
 ### Frontend
+
 <p>
   <img src="./readme_resources/html-5.png" width="40"/>
   <img src="./readme_resources/css-3.png" width="40"/>
   <img src="./readme_resources/js.png" width="35"/>
+  <img src="./readme_resources/react.svg" width="40"/>
   <img src="./readme_resources/bootstrap.png" width="35"/>
   <img src="./readme_resources/tailwind_css.svg" width="40"/>
-  <img src="./readme_resources/react.svg" width="40"/>
 </p>
 
-### Backend
+### Backend & Frameworks
+
 <p>
   <img src="./readme_resources/node.png" width="55"/>
   <img src="./readme_resources/express.svg" width="50"/>
@@ -63,7 +58,10 @@ My project experience includes:
   <img src="./readme_resources/flask.png" width="90"/>
 </p>
 
+**Microsoft .NET:** ASP.NET Core Web API • Entity Framework Core • C#
+
 ### Programming Languages
+
 <p>
   <img src="./readme_resources/c.png" width="40"/>
   <img src="./readme_resources/cpp.png" width="40"/>
@@ -72,19 +70,55 @@ My project experience includes:
 </p>
 
 ### Databases
+
 <p>
   <img src="./readme_resources/mysql.png" width="60"/>
   <img src="./readme_resources/sqlite.svg" width="80"/>
-  <img src="./readme_resources/xampp.png" width="35"/>
   <img src="./readme_resources/mongodb.svg" width="38"/>
 </p>
 
+**Primary Database Experience:** Microsoft SQL Server • MySQL • MongoDB • SQLite
+
 ### Tools & Platforms
+
 <p>
   <img src="./readme_resources/git.svg" width="100"/>
   <img src="./readme_resources/github-mark.png" width="40"/>
   <img src="./readme_resources/ubuntu.svg" width="100"/>
 </p>
+
+---
+
+## 📚 Core Competencies
+
+* Full Stack Web Development
+* Object-Oriented Programming
+* RESTful API Development
+* Database Design & SQL
+* Authentication & Authorization
+* CRUD & Role-Based Access Control
+* Software Development Methodologies
+* Problem Solving
+
+---
+
+## 🏆 Achievements
+
+* 🥇 **Winner — HackWave Hackathon 2024**, APSIT
+  *Sustainability & Environment Domain*
+* 👨‍💻 Participated in **10+ National-Level Hackathons**
+* 🎓 **PGCP-AC — IET CDAC Pune**
+* 🎓 **B.E. Computer Science & Engineering (Data Science)**
+
+---
+
+## 🎯 Current Focus
+
+* Building scalable full-stack applications
+* Strengthening Data Structures & Algorithms
+* Developing applications with **ASP.NET Core and React**
+* Improving software engineering and system design skills
+* Exploring **AI/ML and Generative AI**
 
 ---
 
@@ -104,4 +138,4 @@ My project experience includes:
 
 ---
 
-⭐ *If you like my work, consider starring my repositories and connecting with me!*
+⭐ *Explore my repositories to see my projects, experiments, and learning journey.*
